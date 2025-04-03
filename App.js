@@ -49,16 +49,15 @@ const styles = StyleSheet.create({
     flex: 1,
     marginTop: 60,
     alignItems: 'center',
-    backgroundColor: '#ADD8E6',
+    backgroundColor: 'black',
   },
   info: {
-    color: 'blue',
+    color: 'white',
     marginTop: 15,
     fontSize: 20,
     textAlign: 'center',
   },
   login: {
-    borderRadius: 100,
     width: 280,
     height: 40,
     borderColor: '#000',
@@ -72,7 +71,7 @@ const styles = StyleSheet.create({
 
   foto: {
     marginTop:30,
-    borderRadius: 100,
+    borderRadius: 20,
     width: 200,
     height: 200,
     alignItems: 'center',
